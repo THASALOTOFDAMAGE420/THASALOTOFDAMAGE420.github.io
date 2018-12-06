@@ -21,6 +21,7 @@ body {
     flex-wrap: wrap;
     padding: 15px;
     background-color: #e0e0e8;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .header h1 {
