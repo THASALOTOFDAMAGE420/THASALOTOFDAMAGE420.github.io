@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The three main Dojustu
 
 # Header 1
 ## Header 2
